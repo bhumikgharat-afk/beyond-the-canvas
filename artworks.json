@@ -5,7 +5,7 @@
     "medium": "Oil on canvas",
     "category": "Painting",
     "description": "An intimate self-portrait exploring the artist’s working environment, introspection and the quiet intensity of creation.",
-    "image": "assets/art-01.jpg"
+    "image": "art-01.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A detailed portrait study focused on expression, texture and tonal sensitivity.",
-    "image": "assets/art-02.jpg"
+    "image": "art-02.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "medium": "Watercolour on paper",
     "category": "Drawing",
     "description": "A seated figure rendered through transparent colour and observation.",
-    "image": "assets/art-03.jpg"
+    "image": "art-03.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "An observational self-portrait made from life.",
-    "image": "assets/art-04.jpg"
+    "image": "art-04.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "medium": "Oil colour on paper",
     "category": "Painting",
     "description": "A figurative study balancing cool shadows and warm skin tones.",
-    "image": "assets/art-05.jpg"
+    "image": "art-05.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A life drawing study of posture, gesture and character.",
-    "image": "assets/art-06.jpg"
+    "image": "art-06.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A carefully observed full-figure drawing.",
-    "image": "assets/art-07.jpg"
+    "image": "art-07.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "medium": "Acrylic on canvas",
     "category": "Painting",
     "description": "A portrait rooted in cultural identity, stillness and unspoken emotion. 56 × 72 cm.",
-    "image": "assets/art-08.jpg"
+    "image": "art-08.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "medium": "Oil on canvas",
     "category": "Painting",
     "description": "Two women hold contrasting flowers, expressing the divide between hardship and privilege. 37 × 46 inches. Acquired by a private collector in 2026.",
-    "image": "assets/art-09.jpg"
+    "image": "art-09.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "medium": "Oil on canvas",
     "category": "Painting",
     "description": "A contemplative child portrait selected for the Bombay Art Society exhibition. 28 × 22 inches.",
-    "image": "assets/art-10.jpg"
+    "image": "art-10.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "medium": "Oil colour on canvas",
     "category": "Painting",
     "description": "A devotional portrait set against a richly atmospheric landscape.",
-    "image": "assets/art-11.jpg"
+    "image": "art-11.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "medium": "Poster colour on paper",
     "category": "Drawing",
     "description": "A seated model study exploring patterned fabric and cool tonal relationships.",
-    "image": "assets/art-12.jpg"
+    "image": "art-12.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "A small expressive portrait presented in a frame.",
-    "image": "assets/art-13.jpg"
+    "image": "art-13.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "An observational study of seated posture and drapery.",
-    "image": "assets/art-14.jpg"
+    "image": "art-14.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A tonal study of a seated figure.",
-    "image": "assets/art-15.jpg"
+    "image": "art-15.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "medium": "Oil on canvas",
     "category": "Painting",
     "description": "A closer view of the two central figures and their symbolic flowers.",
-    "image": "assets/art-16.jpg"
+    "image": "art-16.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "A framed painted portrait study.",
-    "image": "assets/art-17.jpg"
+    "image": "art-17.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "medium": "Oil on canvas",
     "category": "Exhibition",
     "description": "The painting on display in a gallery setting.",
-    "image": "assets/art-18.jpg"
+    "image": "art-18.jpg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "An expressive painted study of light and skin tones.",
-    "image": "assets/art-19.jpg"
+    "image": "art-19.jpg"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "medium": "Coloured pencil on paper",
     "category": "Drawing",
     "description": "A colourful seated figure study beside a window.",
-    "image": "assets/art-20.jpg"
+    "image": "art-20.jpg"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "A framed portrait study with subdued earth tones.",
-    "image": "assets/art-21.jpg"
+    "image": "art-21.jpg"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A life study with a relaxed seated pose.",
-    "image": "assets/art-22.jpg"
+    "image": "art-22.jpg"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "A framed portrait exploring traditional clothing and character.",
-    "image": "assets/art-23.jpg"
+    "image": "art-23.jpg"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "medium": "Colour study",
     "category": "Drawing",
     "description": "A vibrant animal portrait exploring colour relationships.",
-    "image": "assets/art-24.jpg"
+    "image": "art-24.jpg"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "medium": "Painting",
     "category": "Painting",
     "description": "A framed portrait study with warm reflected light.",
-    "image": "assets/art-25.jpg"
+    "image": "art-25.jpg"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "A close observational portrait emphasizing expressive lines and age.",
-    "image": "assets/art-26.jpg"
+    "image": "art-26.jpg"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "medium": "Acrylic on canvas",
     "category": "Painting",
     "description": "A closer view of the original portrait Abol.",
-    "image": "assets/art-27.jpg"
+    "image": "art-27.jpg"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "medium": "Pencil on paper",
     "category": "Drawing",
     "description": "An expressive figurative composition exploring physical and emotional tension.",
-    "image": "assets/art-28.jpg"
+    "image": "art-28.jpg"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "medium": "Colour on paper",
     "category": "Drawing",
     "description": "A vibrant historical character study.",
-    "image": "assets/art-29.jpg"
+    "image": "art-29.jpg"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "medium": "Pencil on paper",
     "category": "Commission",
     "description": "A commissioned portrait rendered in graphite.",
-    "image": "assets/art-30.jpg"
+    "image": "art-30.jpg"
   },
   {
     "id": 31,
@@ -245,6 +245,6 @@
     "medium": "Colour on paper",
     "category": "Commission",
     "description": "A colourful commissioned portrait.",
-    "image": "assets/art-31.jpg"
+    "image": "art-31.jpg"
   }
 ]
